@@ -1,6 +1,6 @@
 # 🛡️ webhookshield
 
-[![NPM Version](https://img.shields.io/badge/npm-v1.0.0-blue?style=flat-square)](https://www.npmjs.com/package/webhookshield)
+[![NPM Version](https://img.shields.io/badge/npm-v1.0.1-blue?style=flat-square)](https://www.npmjs.com/package/webhookshield)
 [![Downloads](https://img.shields.io/badge/downloads-850%2Fmonth-brightgreen?style=flat-square)](https://www.npmjs.com/package/webhookshield)
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen?style=flat-square)](https://github.com/Ezeko/webhookshield/actions)
 [![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](https://github.com/Ezeko/webhookshield/blob/main/LICENCE)
