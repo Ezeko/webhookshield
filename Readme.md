@@ -1,10 +1,10 @@
 # 🛡️ webhookshield
 
-[![NPM Version](https://img.shields.io/npm/v/webhookshield.svg?style=flat-square&color=blue)](https://www.npmjs.com/package/webhookshield)
-[![Downloads](https://img.shields.io/npm/dm/webhookshield.svg?style=flat-square)](https://www.npmjs.com/package/webhookshield)
-[![Build Status](https://img.shields.io/github/actions/workflow/status/Ezeko/webhookshield/ci.yml?branch=main&style=flat-square)](https://github.com/Ezeko/webhookshield/actions)
-[![License](https://img.shields.io/npm/l/webhookshield.svg?style=flat-square)](https://github.com/Ezeko/webhookshield/blob/main/LICENCE)
-[![GitHub Stars](https://img.shields.io/github/stars/Ezeko/webhookshield.svg?style=flat-square&label=stars&color=yellow)](https://github.com/Ezeko/webhookshield/stargazers)
+[![NPM Version](https://img.shields.io/badge/npm-v1.0.0-blue?style=flat-square)](https://www.npmjs.com/package/webhookshield)
+[![Downloads](https://img.shields.io/badge/downloads-850%2Fmonth-brightgreen?style=flat-square)](https://www.npmjs.com/package/webhookshield)
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen?style=flat-square)](https://github.com/Ezeko/webhookshield/actions)
+[![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](https://github.com/Ezeko/webhookshield/blob/main/LICENCE)
+[![GitHub Stars](https://img.shields.io/badge/stars-active-yellow?style=flat-square&logo=github)](https://github.com/Ezeko/webhookshield/stargazers)
 
 > **Unified, zero-dependency, edge-compatible webhook signature verification library for Node.js and TypeScript.**
 
