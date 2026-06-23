@@ -1,0 +1,38 @@
+{
+  "name": "webhookshield",
+  "version": "1.0.0",
+  "description": "Unified, zero-dependency, edge-compatible webhook signature verification library for Node.js and TypeScript. Supports Stripe, GitHub, Clerk, Shopify, Lemon Squeezy, and Resend.",
+  "main": "src/index.js",
+  "types": "index.d.ts",
+  "files": [
+    "src",
+    "index.d.ts",
+    "Readme.md",
+    "LICENCE"
+  ],
+  "scripts": {
+    "test": "node --test tests/*.test.js"
+  },
+  "keywords": [
+    "webhookshield",
+    "webhook",
+    "signature",
+    "verification",
+    "security",
+    "stripe-webhook",
+    "clerk-webhook",
+    "github-webhook",
+    "shopify-webhook",
+    "lemon-squeezy-webhook",
+    "resend-webhook",
+    "edge-ready",
+    "zero-dependency",
+    "hmac",
+    "sha256"
+  ],
+  "author": "Ezekiel Adejobi",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
